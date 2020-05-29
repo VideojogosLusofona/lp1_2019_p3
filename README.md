@@ -174,7 +174,7 @@ _power-ups_ e inimigos).
 O jogo termina quando o HP do jogador chega a zero. A pontuação do jogador é
 igual ao nível atingido. Se a pontuação alcançada estiver entre as 10 melhores,
 solicita-se ao jogador o seu nome para o mesmo figurar na tabela de _high
-scores_ para a dimensão da grelha em questão. [Este código](ficheiros) mostra
+scores_ para a dimensão da grelha em questão. [Este código][ficheiros] mostra
 como se pode guardar uma lista de _high scores_ num ficheiro.
 
 O jogo também termina se o jogador pressionar a tecla _Escape_.
