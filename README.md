@@ -1,14 +1,14 @@
 <!--
-Projeto 3 de Linguagens de Programação I 2018/2019 (c) by Nuno Fachada
+Projeto 3 de Linguagens de Programação I 2019/2020 (c) by Nuno Fachada
 
-Projeto 3 de Linguagens de Programação I 2018/2019 is licensed under a
+Projeto 3 de Linguagens de Programação I 2019/2020 is licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 You should have received a copy of the license along with this
 work. If not, see <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
 -->
 
-# Projeto 3 de Linguagens de Programação I 2018/2019
+# Projeto 3 de Linguagens de Programação I 2019/2020
 
 ## Descrição do problema
 
